@@ -1,6 +1,12 @@
 arquivo com nome incorreto
 teste de diff de arquivos
 
+<<<<<<< HEAD
 finalizando a entrega da atividade
 
 realizando mais 1 commit incorreto
+=======
+test de commit ruim
+
+fazendo outro commit ruim para testar
+>>>>>>> b6ba15e (outro commit ruim)
