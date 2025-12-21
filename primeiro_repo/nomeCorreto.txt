@@ -1,6 +1,6 @@
 arquivo com nome incorreto
 teste de diff de arquivos
 
-test de commit ruim
+finalizando a entrega da atividade
 
-fazendo outro commit ruim para testar
+realizando mais 1 commit incorreto
